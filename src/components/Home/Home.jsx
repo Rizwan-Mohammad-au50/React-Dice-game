@@ -4,7 +4,7 @@ const Home = ({playNow}) => {
   return (
     <Container>
       <div className="div1">
-        <img src="/images/dices.png" alt="Cubes" />
+        <img src="images/dices.png" alt="Cubes" />
       </div>
       <div className="div2">
         <h1 className="gameName">Dice Game</h1>
